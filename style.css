@@ -1,0 +1,38 @@
+h1 {
+  <style>
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+</style> 
+  font-family: 'Permanent Marker', cursive;
+  font-size: 40px;
+  color: #e699cc;
+}
+h2 {
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap" rel="stylesheet">
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  color: #e699cc;
+}
+
+body {
+  padding-top: 5rem;
+}
+
+nav {
+  background-color: #e699cc;
+}
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.nav-p{
+  display:inline-block;
+  padding-top:.3125rem;
+  padding-bottom:.3125rem;
+  margin-right:1rem;
+  font-size:1.25rem;
+  line-height:inherit;
+  white-space:nowrap;
+  color:black;
+}
+
